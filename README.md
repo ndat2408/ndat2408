@@ -8,17 +8,7 @@ I have a passion with technology and progam.
 <h1 style="text-align:center;">My social</h1>
 <div style="text-align:center">
 
-[<img src="https://img.shields.io/badge/-facebook-%234267B2"/>](https://facebook.com/ndat2408)
-<!-- <a style="margin:0 5px;padding:5px 10px;border-radius:5px;background:#000; color:#fff" href="https://www.facebook.com/ndat2408/">
-    My Bio Website
-    </a>
-<a style="margin:0 5px;padding:5px 10px;border-radius:5px;background:#4267B2; color:#fff" href="https://www.facebook.com/ndat2408/">
-    Facebook
-    </a>
-<a style="margin:0 5px;padding:5px 10px;border-radius:5px;background:#8a3ab9; color:#fff" href="https://www.facebook.com/ndat2408/">
-    Instagram
-    </a>
-<a style="margin:0 5px;padding:5px 10px;border-radius:5px;background:#FF0000; color:#fff" href="https://www.facebook.com/ndat2408/">
-    Youtube
-    </a> -->
-</div>
+[<img src="https://img.shields.io/badge/-My%20Bio%20Website-%23000000"/>](https://facebook.com/ndat2408)
+[<img src="https://img.shields.io/badge/-Facebook-%234267B2"/>](https://facebook.com/ndat2408)
+[<img src="https://img.shields.io/badge/-Instagram-%238a3ab9"/>](https://instagram.com/ndat2408)
+[<img src="https://img.shields.io/badge/-Youtube-%23FF0000"/>](https://youtube.com/ndat2408)
