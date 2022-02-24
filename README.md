@@ -2,7 +2,7 @@
 Hello, my name is Nguyen The Dat.<br>
 I was born on Aug 24, 2004 in Vietnam. Now, I'm a student at Hong Quang high school.<br>
 I have a passion with technology and progam.
-<br><br>
+<br>
 <h1 style="text-align:center">My skill</h1>
 
 ![Progress](https://progress-bar.dev/95/?scale=100&title=HTML%20&width=500&color=e34c26)
