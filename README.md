@@ -1,9 +1,9 @@
 <h1 style="text-align:center">About me</h1>
 Hello, my name is Nguyen The Dat.<br>
 I was born on Aug 24, 2004 in Vietnam. Now, I'm a student at Hong Quang high school.<br>
-I have a passion with technology and progam.
-<br>
-<h1 style="text-align:center">My skill</h1>
+I have a passion with technology and progam. So I always research about it. In addition, in the process of learning about programming, I also know a little more knowledge about graphic design and am quite proficient in software such as Adobe Photoshop, Adobe Premiere.
+
+<h1 style="text-align:center">My progamming skill</h1>
 
 ![Progress](https://progress-bar.dev/95/?scale=100&title=HTML%20&width=500&color=e34c26)
 
@@ -11,9 +11,16 @@ I have a passion with technology and progam.
 
 ![Progress](https://progress-bar.dev/82/?scale=100&title=JS&width=518&color=f0db4f)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndat2408&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndat2408&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+![Progress](https://progress-bar.dev/90/?scale=100&title=CPP%20&width=506&color=044f88)
+
+![Progress](https://progress-bar.dev/76/?scale=100&title=PY&width=518&color=ffd13e)
+
+<h1 style="text-align:center">About my GitHub</h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndat2408&theme=dark&show_icons=true)](https://github.com/ndat2408)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndat2408&theme=dark&layout=compact)](https://github.com/ndat2408)
+
 <h1 style="text-align:center;">My social</h1>
 <div style="text-align:center">
 
