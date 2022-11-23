@@ -20,7 +20,6 @@ I have a passion with technology and progam. So I always research about it. In a
 <h1 style="text-align:center;">My social</h1>
 <div style="text-align:center">
 
-[<img src="https://img.shields.io/badge/-My%20Bio%20Website-%23000000"/>](https://ndat2408.tk)
 [<img src="https://img.shields.io/badge/-Facebook-%234267B2?logo=facebook&logoColor=white"/>](https://facebook.com/ndat2408)
 [<img src="https://img.shields.io/badge/-Instagram-%238a3ab9?logo=instagram&logoColor=white"/>](https://instagram.com/ndat2408)
 [<img src="https://img.shields.io/badge/-Youtube-%23FF0000?logo=youtube"/>](https://youtube.com/ndat2408)
